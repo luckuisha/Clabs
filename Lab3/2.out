@@ -1,0 +1,6 @@
+Please give an amount in cents less than 100: 1 cents: 1 cent.
+Please give an amount in cents less than 100: 14 cents: 1 dime, 4 cents.
+Please give an amount in cents less than 100: 74 cents: 2 quarters, 2 dimes, 4 cents.
+Please give an amount in cents less than 100: 88 cents: 3 quarters, 1 dime, 3 cents.
+Please give an amount in cents less than 100: 10 cents: 1 dime.
+Please give an amount in cents less than 100: Goodbye.

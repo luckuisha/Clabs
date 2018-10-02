@@ -1,0 +1,1 @@
+./Debug/lab0.c.o
