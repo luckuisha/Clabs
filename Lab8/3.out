@@ -1,0 +1,45 @@
+Personal Music Library.
+
+Commands are I (insert), D (delete), S (search by song name),
+P (print), Q (quit).
+
+Command --> Song name --> Artist --> Genre --> 
+Command --> Song name --> Artist --> Genre --> 
+Command --> Song name --> Artist --> Genre --> 
+Command --> 
+My Personal Music Library: 
+
+Look At Wrist 
+Father 
+Hip hop 
+
+My Love 
+Route 94 
+House 
+
+Super Flexin 
+Manolo Rose 
+Hip hop 
+
+Command --> 
+Enter the name of the song to be deleted --> 
+Deleting a song with name 'Super Flexin' from the music library.
+
+Command --> 
+My Personal Music Library: 
+
+Look At Wrist 
+Father 
+Hip hop 
+
+My Love 
+Route 94 
+House 
+
+Command --> 
+Deleting a song with name 'Look At Wrist' from the music library.
+
+Deleting a song with name 'My Love' from the music library.
+
+The music library is empty.
+

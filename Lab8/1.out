@@ -1,0 +1,18 @@
+Personal Music Library.
+
+Commands are I (insert), D (delete), S (search by song name),
+P (print), Q (quit).
+
+Command --> Song name --> Artist --> Genre --> 
+Command --> 
+My Personal Music Library: 
+
+Hotline Bling 
+Drake 
+Hip hop 
+
+Command --> 
+Deleting a song with name 'Hotline Bling' from the music library.
+
+The music library is empty.
+

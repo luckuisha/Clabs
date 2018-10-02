@@ -1,0 +1,26 @@
+Personal Music Library.
+
+Commands are I (insert), D (delete), S (search by song name),
+P (print), Q (quit).
+
+Command --> Song name --> Artist --> Genre --> 
+Command --> 
+Enter the name of the song to search for --> 
+The song name 'Yellow Submarine' was not found in the music library.
+
+Command --> Song name --> Artist --> Genre --> 
+Command --> 
+Enter the name of the song to search for --> 
+The song name 'Yellow Submarine' was found in the music library.
+
+Yellow Submarine
+The Beatles
+Rock
+
+Command --> 
+Deleting a song with name 'Gimme Shelter' from the music library.
+
+Deleting a song with name 'Yellow Submarine' from the music library.
+
+The music library is empty.
+
